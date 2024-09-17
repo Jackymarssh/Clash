@@ -1,0 +1,8 @@
+#CloudFisher
+IP-CIDR,183.238.50.21/32,no-resolve
+IP-CIDR,183.238.50.20/32,no-resolve
+IP-CIDR,183.238.50.18/32,no-resolve
+IP-CIDR,183.238.50.19/32,no-resolve
+DOMAIN,hhh.097482.xyz
+#Haita
+DOMAIN,haita-backend-paas.zeabur.app
