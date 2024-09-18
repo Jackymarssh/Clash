@@ -6,3 +6,5 @@ IP-CIDR,183.238.50.19/32,no-resolve
 DOMAIN,hhh.097482.xyz
 #Haita
 DOMAIN,haita-backend-paas.zeabur.app
+#必应搜索
+DOMAIN,cn.bing.com
